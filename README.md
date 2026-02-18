@@ -1,16 +1,80 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663098816910/HSpOLyHiqSPjQNCM.png" alt="Guillermo Fuentes Jaque Banner">
+</p>
 
-<!--
-**djwillichile/djwillichile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Guillermo S. Fuentes Jaque
+### Geospatial Data Scientist | Environmental Modeler | Academic Leader
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.linkedin.com/in/guillermo-fuentes-jaque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gfuentes.cl" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://orcid.org/0000-0002-0688-9965" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="mailto:g.fuentes@renare.uchile.cl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 ¡Hola! Soy Guillermo, un profesional con más de 10 años de experiencia liderando la convergencia entre **ciencia de datos, modelamiento ambiental y geomática**. Mi carrera se ha centrado en transformar datos crudos (satelitales, climáticos, territoriales) en **soluciones estratégicas y productos de datos de alto impacto**.
+
+Como **Consultor Senior** y **Coordinador Académico**, mi trabajo abarca desde la dirección de consultorías complejas para la gran minería y el sector público, hasta la formación de la próxima generación de expertos en tecnología geoespacial. Este portafolio es una muestra de mi doble pasión: resolver problemas del mundo real con código y compartir ese conocimiento.
+
+---
+
+### 🛠️ Stack Tecnológico Principal
+
+**Geomática & Teledetección:**
+`ArcGIS Pro/Online` `QGIS` `Google Earth Engine` `PostGIS` `GRASS` `SAGA` `FRAGSTATS`
+
+**Ciencia de Datos & ML:**
+`Python (Scikit-Learn, GeoPandas, Rasterio)` `R (Tidyverse, Caret, Shiny)` `SQL` `XGBoost` `SHAP`
+
+**Modelamiento Ambiental:**
+`MODFLOW` `WEAP` `CALPUFF` `AERMOD` `OpenAir (R)` `Stella` `Vensim`
+
+**BI & Desarrollo Web:**
+`Power BI` `R Shiny` `Leaflet` `React` `JavaScript` `HTML/CSS`
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 💧 [analisis-hidrometeorologico-chile](https://github.com/djwillichile/analisis-hidrometeorologico-chile)
+**Reproducible Hydroclimatic Analysis of Central Chile (2015-2024)**
+Pipeline de Python automatizado para evaluar la disponibilidad hídrica y la sequía en Chile central usando datos ERA5-Land. Incluye cálculo de SPI, balance hídrico y análisis de tendencias.
+
+#### 🌍 [spEnviroDistr](https://github.com/djwillichile/spEnviroDistr)
+**Advanced Spatial Analysis & Environmental Data Distribution**
+Paquete de R para análisis espacial avanzado. Implementa GWR (Geographically Weighted Regression) con procesamiento en paralelo y técnicas de downscaling para variables ambientales.
+
+#### 🤖 [monitoreoML](https://github.com/djwillichile/monitoreoML)
+**ML Model Monitoring Framework**
+Framework integral para detectar Data Drift y degradación de performance en modelos de producción, asegurando la trazabilidad en pipelines de datos territoriales.
+
+#### 📊 [rasterInfoR](https://github.com/djwillichile/rasterInfoR)
+**Interactive Shiny-based GIS Tool**
+Herramienta interactiva para análisis de ráster en tiempo real. Incluye filtrado de series temporales (Whittaker/Savitzky-Golay) y visualización dinámica para evaluaciones ambientales rápidas.
+
+#### 🌱 [spAgroClimate](https://github.com/djwillichile/paquetes-spAgroClimate)
+**Specialized R Library for Agro-Climatic Analysis**
+Librería de R especializada en la automatización de indicadores agroclimáticos (horas frío, acumulación térmica) para la agricultura de precisión.
+
+#### 💹 [currency-dashboard](https://github.com/djwillichile/currency-dashboard)
+**Full-Stack Financial Dashboard**
+Dashboard financiero (React/Vite) que consume APIs en tiempo real, aplica un algoritmo de scoring y genera recomendaciones de inversión.
+
+---
+
+### 📖 Trayectoria e Impacto
+
+*   **Investigación Científica:** Autor de más de 15 publicaciones, incluyendo artículos en *Scientific Reports (Nature)*, *Remote Sensing* e *Hydrology*. Mi trabajo se centra en la aplicación de teledetección para estudiar el cambio climático y sus efectos en recursos hídricos y ecosistemas.
+*   **Consultoría Estratégica:** He liderado y participado en proyectos de alto perfil para clientes como **Anglo American, SQM, ENAP, Aguas Andinas, SAG, INE y CORFO**, desarrollando desde líneas base ambientales y modelamiento de dispersión hasta el rediseño territorial para el Censo 2024.
+*   **Liderazgo Académico:** Como Coordinador y docente en 4 universidades chilenas (U. de Chile, U. San Sebastián, U. Mayor, U. Bernardo O'Higgins), he diseñado y liderado programas de formación en SIG, Data Science y Modelamiento Ambiental, además de dirigir capacitaciones para el sector público y privado.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djwillichile&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Guillermo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djwillichile&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+*Mi objetivo es doble: aplicar la ciencia y la tecnología para resolver los desafíos ambientales más urgentes de nuestro tiempo, y empoderar a otros para que hagan lo mismo.*
