@@ -62,6 +62,21 @@ Dashboard financiero (React/Vite) que consume APIs en tiempo real, aplica un alg
 
 ---
 
+### 🎓 Tesis destacada
+
+#### 🌵 [tesis-atacama-chirps](https://github.com/djwillichile/tesis-atacama-chirps)
+**Desarrollo de un método para estimar la distribución espacial de la precipitación mensual en alta resolución en el desierto de Atacama (Chile) a partir de productos CHIRPS**
+Landing y repositorio dedicados a mi tesis de magíster en la Universidad de Chile, centrada en downscaling de precipitación, modelamiento espacial y análisis territorial del desierto de Atacama.
+
+| Recurso | Enlace |
+| --- | --- |
+| Landing académica | https://djwillichile.github.io/tesis-atacama-chirps/ |
+| Repositorio del proyecto | https://github.com/djwillichile/tesis-atacama-chirps |
+| Repositorio institucional U. de Chile | https://repositorio.uchile.cl/handle/2250/200362 |
+| PDF institucional | https://repositorio.uchile.cl/bitstream/handle/2250/200362/2022_Guillermo_Fuentes_Jaque.pdf |
+
+---
+
 ### 📖 Trayectoria e Impacto
 
 *   **Investigación Científica:** Autor de más de 15 publicaciones, incluyendo artículos en *Scientific Reports (Nature)*, *Remote Sensing* e *Hydrology*. Mi trabajo se centra en la aplicación de teledetección para estudiar el cambio climático y sus efectos en recursos hídricos y ecosistemas.
