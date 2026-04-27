@@ -60,9 +60,31 @@ Herramienta interactiva para análisis de ráster en tiempo real. Incluye filtra
 **Specialized R Library for Agro-Climatic Analysis**
 Librería de R especializada en la automatización de indicadores agroclimáticos (horas frío, acumulación térmica) para la agricultura de precisión.
 
+#### 📚 [missing-data-imputation](https://github.com/djwillichile/missing-data-imputation)
+**Guía Técnica y Educativa sobre Datos Faltantes e Imputación**
+Recurso técnico reproducible sobre estrategias para el manejo de valores ausentes en ciencia de datos. Cubre desde métodos simples (media, moda) hasta técnicas avanzadas (KNN, imputación múltiple), con código Python, visualizaciones y documentación completa publicada en GitHub Pages bajo licencia CC-BY 4.0.
+
 #### 💹 [Interactive dashboard](https://github.com/djwillichile/currency-dashboard)
 **Full-Stack Financial Dashboard**
 Dashboard financiero (React/Vite) que consume APIs en tiempo real, aplica un algoritmo de scoring y genera recomendaciones de inversión.
+
+---
+
+### 📊 Ciencia de Datos Aplicada
+
+Proyectos de análisis y modelamiento aplicados a sectores fuera del ámbito ambiental, orientados a negocio y sector público.
+
+#### 🏛️ [chile-public-procurement-analysis](https://github.com/djwillichile/chile-public-procurement-analysis)
+**Análisis Estratégico del Mercado de Compras Públicas en Chile (2019–2025)**
+Pipeline de análisis sobre más de 807.000 licitaciones de ChileCompra, con ETL para datasets de +30 GB, índice de oportunidad de mercado por sector y modelos Prophet/XGBoost para proyecciones 2025–2028. Identifica sectores con mayor crecimiento de demanda estatal e incluye visualizaciones interactivas publicadas vía GitHub Actions.
+
+#### 📉 [churnTelecom](https://github.com/djwillichile/churnTelecom)
+**Pipeline ML End-to-End para Predicción de Churn en Telecomunicaciones**
+Pipeline completo para identificar clientes en riesgo de abandono: ingeniería de características, comparación de modelos (XGBoost, LightGBM, Regresión Logística), manejo de desbalance con SMOTE e interpretabilidad con SHAP. Mejor modelo alcanza ROC-AUC de 0.85 sobre el dataset IBM Telco (7.043 clientes).
+
+#### 👥 [segmentacionClientes](https://github.com/djwillichile/segmentacionClientes)
+**Segmentación de Clientes con RFM, K-Means y CLV para Telecomunicaciones**
+Pipeline de segmentación no supervisada basado en análisis RFM, K-Means y clustering jerárquico, con estimación de Customer Lifetime Value (CLV) por segmento. Genera perfiles accionables con estrategias de retención, cross-selling y comunicación personalizadas para cada grupo de clientes.
 
 ---
 
