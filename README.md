@@ -40,7 +40,7 @@ Como **Consultor Senior** y **Coordinador Académico**, mi trabajo abarca desde 
 **Reproducible Hydroclimatic Analysis of Central Chile (2015-2024)**
 Pipeline de Python automatizado para evaluar la disponibilidad hídrica y la sequía en Chile central usando datos ERA5-Land. Incluye cálculo de SPI, balance hídrico y análisis de tendencias.
 
-#### 🌬️ Análisis Eddy Patagonia-Chile [Estidio completo](https://github.com/djwillichile/eddy-patagonia-chile) · [Ejemplo Colab](https://github.com/djwillichile/eddy-patagonia-colab)
+#### 🌬️ Análisis Eddy Patagonia-Chile [Estudio completo](https://github.com/djwillichile/eddy-patagonia-chile) · [Ejemplo Colab](https://github.com/djwillichile/eddy-patagonia-colab)
 **Estaciones para estudios ecosistémicos en Chile y la Patagonia (Eddy Covariance)**
 Pipeline reproducible para descubrir, descargar, estandarizar y analizar datos de estaciones de covarianza de remolinos (*eddy covariance*) en Chile y Sudamérica austral. Integra 6 estaciones validadas con datos 2014–2024 (+11.000 observaciones estandarizadas), interfaz web interactiva y un notebook de Google Colab para demostración *end-to-end* de los flujos de carbono, agua y energía en ecosistemas patagónicos.
 
