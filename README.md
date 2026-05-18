@@ -112,8 +112,18 @@ Landing y repositorio dedicados a mi tesis de magíster en la Universidad de Chi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djwillichile&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Guillermo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djwillichile&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <a href="https://github.com/djwillichile"><img src="https://img.shields.io/github/followers/djwillichile?label=Seguidores&style=for-the-badge&color=4CAF50&logo=github" alt="GitHub Followers"></a>
+  <a href="https://github.com/djwillichile?tab=repositories"><img src="https://img.shields.io/github/stars/djwillichile?affiliations=OWNER&label=Stars&style=for-the-badge&color=FFCA28&logo=github" alt="GitHub Stars"></a>
+  <img src="https://komarev.com/ghpvc/?username=djwillichile&style=for-the-badge&color=0077B5&label=Visitas+al+perfil" alt="Profile views">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djwillichile&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats de Guillermo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djwillichile&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=djwillichile&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones" />
 </p>
 
 ---
