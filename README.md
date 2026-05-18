@@ -118,12 +118,17 @@ Landing y repositorio dedicados a mi tesis de magíster en la Universidad de Chi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djwillichile&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats de Guillermo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djwillichile&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" alt="Lenguajes más usados" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Resumen de perfil" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=djwillichile&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats de Guillermo" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Lenguajes con más commits" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos por lenguaje" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Horario más productivo" />
 </p>
 
 ---
