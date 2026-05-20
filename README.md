@@ -36,27 +36,27 @@ Como **Consultor Senior** y **Coordinador Académico**, mi trabajo abarca desde 
 
 ### 🚀 Proyectos Destacados
 
-#### 🛰️ [geoia-bloom-huasco](https://github.com/djwillichile/geoia-bloom-huasco)
-**Teledetección aplicada al monitoreo del Desierto Florido en la cuenca del río Huasco**
+#### 🛰️ [Monitoreo del Desierto Florido en la cuenca del Huasco](https://github.com/djwillichile/geoia-bloom-huasco)
+**Teledetección aplicada a eventos de floración en ecosistemas áridos**
 Flujo reproducible con MODIS MOD13Q1, Google Earth Engine y Python para construir climatologías NDVI, calcular anomalías y cuantificar eventos de bloom entre 2000–2026. Conecta monitoreo satelital, análisis temporal y comunicación científica aplicada a ecosistemas áridos.
 
-#### 💧 [analisis-hidrometeorologico-chile](https://github.com/djwillichile/analisis-hidrometeorologico-chile)
+#### 💧 [Análisis hidrometeorológico de Chile](https://github.com/djwillichile/analisis-hidrometeorologico-chile)
 **Análisis hidroclimático reproducible de Chile central (2015–2024)**
 Pipeline de Python automatizado para evaluar la disponibilidad hídrica y la sequía en Chile central usando datos ERA5-Land. Incluye cálculo de SPI, balance hídrico, análisis de tendencias (Mann-Kendall/Sen) y visualizaciones publicables.
 
-#### 🌬️ [eddy-patagonia-chile](https://github.com/djwillichile/eddy-patagonia-chile) · [Ejemplo Colab](https://github.com/djwillichile/eddy-patagonia-colab)
-**Estaciones para estudios ecosistémicos en Chile y la Patagonia (Eddy Covariance)**
+#### 🌬️ [Eddy Covariance en Chile y la Patagonia](https://github.com/djwillichile/eddy-patagonia-chile) · [Ejemplo Colab](https://github.com/djwillichile/eddy-patagonia-colab)
+**Estaciones para estudios ecosistémicos de carbono, agua y energía**
 Pipeline reproducible para descubrir, descargar, estandarizar y analizar datos de estaciones de covarianza de remolinos (*eddy covariance*) en Chile y Sudamérica austral. Integra 6 estaciones validadas con datos 2014–2024 (+11.000 observaciones estandarizadas), interfaz web interactiva y un notebook de Google Colab para demostración *end-to-end* de los flujos de carbono, agua y energía en ecosistemas patagónicos.
 
-#### 🌡️ [tempify](https://github.com/djwillichile/tempify)
-**Librería Python para densificación temporal de stacks ráster geoespaciales**
+#### 🌡️ [tempify — Densificación temporal de ráster climáticos](https://github.com/djwillichile/tempify)
+**Librería Python para convertir series mensuales en diarias**
 Convierte series mensuales en series diarias preservando propiedades estadísticas críticas, con aplicación en bioclimatología, hidrología, agroclima y modelación ambiental. Incluye CLI, API Python, tests, tutoriales y documentación técnica.
 
-#### 🌍 [spEnviroDistr](https://github.com/djwillichile/spEnviroDistr)
-**Paquete R para análisis espacial avanzado y distribución de variables ambientales**
+#### 🌍 [spEnviroDistr — Análisis espacial ambiental en R](https://github.com/djwillichile/spEnviroDistr)
+**Paquete R para distribución espacial de variables ambientales**
 Implementa GWR (Geographically Weighted Regression) con procesamiento en paralelo, downscaling, imputación espacial y preparación de capas predictoras para modelación ambiental.
 
-#### 🌱 [paquetes-spAgroClimate](https://github.com/djwillichile/paquetes-spAgroClimate)
+#### 🌱 [spAgroClimate — Indicadores agroclimáticos en R](https://github.com/djwillichile/paquetes-spAgroClimate)
 **Librería de R especializada en análisis agroclimático**
 Automatización de indicadores agroclimáticos (horas frío, acumulación térmica) para la agricultura de precisión. Proyecto en evolución activa orientado a uso en campo y docencia.
 
@@ -66,29 +66,29 @@ Automatización de indicadores agroclimáticos (horas frío, acumulación térmi
 
 Proyectos de análisis y modelamiento aplicados a sectores fuera del ámbito ambiental, orientados a negocio y sector público.
 
-#### 🏛️ [chile-public-procurement-analysis](https://github.com/djwillichile/chile-public-procurement-analysis)
-**Análisis Estratégico del Mercado de Compras Públicas en Chile (2019–2025)**
+#### 🏛️ [Análisis estratégico de compras públicas en Chile](https://github.com/djwillichile/chile-public-procurement-analysis)
+**Mercado ChileCompra 2019–2025**
 Pipeline de análisis sobre más de 807.000 licitaciones de ChileCompra, con ETL para datasets de +30 GB, índice de oportunidad de mercado por sector y modelos Prophet/XGBoost para proyecciones 2025–2028. Identifica sectores con mayor crecimiento de demanda estatal e incluye visualizaciones interactivas publicadas vía GitHub Actions. El procesamiento masivo está modularizado en [chilecompra-data-processor](https://github.com/djwillichile/chilecompra-data-processor).
 
-#### 🤖 [monitoreoML](https://github.com/djwillichile/monitoreoML)
-**ML Model Monitoring Framework**
+#### 🤖 [Monitoreo de modelos ML en producción](https://github.com/djwillichile/monitoreoML)
+**Framework de Data Drift y degradación de performance**
 Framework integral para detectar Data Drift y degradación de performance en modelos de producción, asegurando la trazabilidad en pipelines de datos territoriales.
 
-#### 📉 [churnTelecom](https://github.com/djwillichile/churnTelecom)
-**Pipeline ML End-to-End para Predicción de Churn en Telecomunicaciones**
+#### 📉 [Predicción de Churn en Telecomunicaciones](https://github.com/djwillichile/churnTelecom)
+**Pipeline ML End-to-End con XGBoost, LightGBM y SHAP**
 Pipeline completo para identificar clientes en riesgo de abandono: ingeniería de características, comparación de modelos (XGBoost, LightGBM, Regresión Logística), manejo de desbalance con SMOTE e interpretabilidad con SHAP. Mejor modelo alcanza ROC-AUC de 0.85 sobre el dataset IBM Telco (7.043 clientes).
 
-#### 👥 [segmentacionClientes](https://github.com/djwillichile/segmentacionClientes)
-**Segmentación de Clientes con RFM, K-Means y CLV para Telecomunicaciones**
+#### 👥 [Segmentación de Clientes con RFM, K-Means y CLV](https://github.com/djwillichile/segmentacionClientes)
+**Perfiles accionables para retención y cross-selling**
 Pipeline de segmentación no supervisada basado en análisis RFM, K-Means y clustering jerárquico, con estimación de Customer Lifetime Value (CLV) por segmento. Genera perfiles accionables con estrategias de retención, cross-selling y comunicación personalizadas para cada grupo de clientes.
 
 ---
 
 ### 🎓 Tesis de Postgrado
 
-#### 🌵 [tesis-atacama-chirps](https://github.com/djwillichile/tesis-atacama-chirps)
-**Desarrollo de un método para estimar la distribución espacial de la precipitación mensual en alta resolución en el desierto de Atacama (Chile) a partir de productos CHIRPS**
-Landing y repositorio dedicados a mi tesis de magíster en la Universidad de Chile, centrada en downscaling de precipitación, modelamiento espacial y análisis territorial del desierto de Atacama.
+#### 🌵 [Precipitación en alta resolución en el desierto de Atacama (CHIRPS)](https://github.com/djwillichile/tesis-atacama-chirps)
+**Tesis de Magíster — Universidad de Chile**
+Desarrollo de un método para estimar la distribución espacial de la precipitación mensual en alta resolución en el desierto de Atacama (Chile) a partir de productos CHIRPS. Landing y repositorio dedicados a la tesis, centrada en downscaling de precipitación, modelamiento espacial y análisis territorial.
 
 | Recurso | Enlace |
 | --- | --- |
@@ -104,12 +104,12 @@ Landing y repositorio dedicados a mi tesis de magíster en la Universidad de Chi
 <details>
 <summary>Materiales y guías reproducibles</summary>
 
-#### 📖 [missing-data-imputation](https://github.com/djwillichile/missing-data-imputation)
-**Guía Técnica y Educativa sobre Datos Faltantes e Imputación**
+#### 📖 [Guía sobre datos faltantes e imputación](https://github.com/djwillichile/missing-data-imputation)
+**Recurso educativo reproducible en ciencia de datos**
 Recurso técnico reproducible sobre estrategias para el manejo de valores ausentes en ciencia de datos. Cubre desde métodos simples (media, moda) hasta técnicas avanzadas (KNN, imputación múltiple), con código Python, visualizaciones y documentación completa publicada en GitHub Pages bajo licencia CC-BY 4.0.
 
-#### 🧑‍🏫 [webapps-uss](https://github.com/djwillichile/webapps-uss)
-**Material docente — Aplicaciones y Tecnologías Web (USS)**
+#### 🧑‍🏫 [Aplicaciones y Tecnologías Web — USS](https://github.com/djwillichile/webapps-uss)
+**Material docente del curso**
 Repositorio de apoyo a la asignatura, con ejercicios y proyectos demostrativos para estudiantes.
 
 </details>
@@ -121,8 +121,8 @@ Repositorio de apoyo a la asignatura, con ejercicios y proyectos demostrativos p
 <details>
 <summary>Prototipos, dashboards y exploraciones</summary>
 
-#### 💹 [currency-dashboard](https://github.com/djwillichile/currency-dashboard)
-**Full-Stack Financial Dashboard**
+#### 💹 [Dashboard financiero interactivo](https://github.com/djwillichile/currency-dashboard)
+**Full-Stack con React/Vite**
 Dashboard financiero (React/Vite) que consume APIs en tiempo real, aplica un algoritmo de scoring y genera recomendaciones de inversión.
 
 </details>
