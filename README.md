@@ -48,7 +48,7 @@ Pipeline de Python automatizado para evaluar la disponibilidad hídrica y la seq
 **Estaciones para estudios ecosistémicos de carbono, agua y energía**
 Pipeline reproducible para descubrir, descargar, estandarizar y analizar datos de estaciones de covarianza de remolinos (*eddy covariance*) en Chile y Sudamérica austral. Integra 6 estaciones validadas con datos 2014–2024 (+11.000 observaciones estandarizadas), interfaz web interactiva y un notebook de Google Colab para demostración *end-to-end* de los flujos de carbono, agua y energía en ecosistemas patagónicos.
 
-#### 🌡️ [tempify — Densificación temporal de ráster climáticos](https://github.com/djwillichile/tempify)
+#### 📈 [tempify — Densificación temporal de ráster climáticos](https://github.com/djwillichile/tempify)
 **Librería Python para convertir series mensuales en diarias**
 Convierte series mensuales en series diarias preservando propiedades estadísticas críticas, con aplicación en bioclimatología, hidrología, agroclima y modelación ambiental. Incluye CLI, API Python, tests, tutoriales y documentación técnica.
 
